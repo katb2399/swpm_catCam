@@ -17,11 +17,11 @@ Die unteren Screnshots zeigen, wie beide der Funktionen aussehen können. Das er
 ### Screenshot
 ![Image text](/path/to/the/screenshot.png)
 
-## Technologies
+## Technologien
 ***
 Für den Prototyp wurden folgende Frameworks im Programm Xcode genutzt:
 
-* [Apple UIKit](https://developer.apple.com/documentation/uikit)): Erstellung einer Benutzerfläche in iOS Apps
+* [Apple UIKit](https://developer.apple.com/documentation/uikit): Erstellung einer Benutzerfläche in iOS Apps
 * [Apple MapKit](https://developer.apple.com/documentation/mapkit/): Einbettung von interaktiven Karten in iOS Apps, hier nur zum Anzeigen einer Karte mit dem Abrufen des aktuellen Standortes eines iPhone's
 * [Core Bluetooth](https://developer.apple.com/documentation/corebluetooth): Kommunikation über Bluetooth auf iOS Geräten, hier Zugriff auf Bluetooth Kopfhörer bzw. AirPods. Das Gerät kann gesucht und sich mit ihm verbunden werden.
 * [Core Location](https://developer.apple.com/documentation/corelocation): Standortbestimmung von eine iOS Gerät, hier der Zugriff auf den aktuellen Standort eines Gerätes
@@ -40,5 +40,3 @@ Das Projekt kann wie folgt auf einem Mac Computer ausgeführt werden:
   c. Auf den Play Button klicken und den Anweisungen auf dem iPhone folgen.
   d. Wenn die App nicht durchführbar ist auf dem iPhone muss der App in den Einstellungen > Allgemein > VPN und Geräteverwaltung       vertraut werden. Danach sollte es funktionieren.
   e. App nochmal über den Play Button ausführen auf dem Computer und sie wird automatisch auf dem Handy gestartet.
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |

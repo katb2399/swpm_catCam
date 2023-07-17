@@ -1,5 +1,6 @@
 # SWPM Projekt CatCam
 ### Anissa  Kayem, Mareike Aust, Melina Osterloh und Katharina Bente
+#### Modul 6. Semester - Organisation und Management von softwareintensiven Projekten - Prof. Dr. Jasminka Matevska, Maik Purrmann
 
 Dies ist ein Projekt, welches im Rahmen des Modules ,,Organisation und Management von softwareintensiven Modulen" an der Hochschule durchgeführt wurde. Bei dem Code handelt es sich um eine iOS App, programmiert in Xcode. Demenstprechend kann es nur mit einem Mac Computer ausgeführt werden. Es ist möglich den Prototypen im Simulator zu testen, allerdings funktionieren die Hauptfunktionen nur, wenn ein iPhone per Kabel an einen Mac Computer angeschlossen werden.
 

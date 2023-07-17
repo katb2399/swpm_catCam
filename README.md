@@ -15,7 +15,13 @@ Die App ist für iOS Geräte und wurde in Xcode programmiert, eine App für die 
 
 Die unteren Screnshots zeigen, wie beide der Funktionen aussehen können. Das erste Bild zeigt einen Ausschnitt der Konsole, in der durch print-Befehle die Verbindung zwischen einem Bluetooth-Gerät, in dem Falle AirPods, dokumentiert werden. Das zweite Bild zeigt den aktuellen Standort des Gerätes, auf dem die App installiert wurde. 
 ### Screenshot
+***
+Ausschnitt von der Konsole in XCode bei der Verbindung mit Bluetooth
 ![Ausschnitt von der Konsole in XCode bei der Verbindung mit Bluetooth](/Screenshots/AusschnittKonsole.png)
+***
+Ausschnitt von der Map Ansicht in der App (aktueller Standort wird angezeigt)
+![Ausschnitt von der Map Ansicht in der](/Screenshots/AusschnittMap.PNG)
+***
 
 ## Technologien
 ***
@@ -38,5 +44,5 @@ Das Projekt kann wie folgt auf einem Mac Computer ausgeführt werden:
   a. iPhone per Kabel an den Mac Computer anschließen
   b. In der Leiste oben Mitte aus den Geräten das eigene iPhone auswählen (Default sollte iPhone 14 Pro sein, oder etwas anderes)
   c. Auf den Play Button klicken und den Anweisungen auf dem iPhone folgen.
-  d. Wenn die App nicht durchführbar ist auf dem iPhone muss der App in den Einstellungen > Allgemein > VPN und Geräteverwaltung       vertraut werden. Danach sollte es funktionieren.
+  d. Wenn die App nicht durchführbar ist auf dem iPhone muss der App in den Einstellungen > Allgemein > VPN und Geräteverwaltung dem Apple Development vertraut werden. Danach sollte es  funktionieren.
   e. App nochmal über den Play Button ausführen auf dem Computer und sie wird automatisch auf dem Handy gestartet.

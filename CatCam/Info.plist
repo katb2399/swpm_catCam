@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App greift jederzeit auf Standort zu</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App benötigt Location Zugriff </string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Diese App benötigt Bluetooth-Zugriff, um mit externen Geräten zu kommunizieren.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Diese App verwendet Bluetooth, um eine Verbindung zu einem externen Gerät herzustellen und daten auszutauschen.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Quicksand-VariableFont_wght.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

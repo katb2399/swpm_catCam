@@ -28,7 +28,7 @@ Die unteren Screnshots zeigen, wie beide der Funktionen aussehen können. Das er
 
 ## Technologies
 ***
-Für den Prototyp wurden folgende Frameworks im Programm Xcode genutzt
+Für den Prototyp wurden folgende Frameworks im Programm Xcode genutzt:
 * [Apple UIKit](https://example.com): Version 12.3
 * [Apple MapKit](https://example.com): Version 12.3 
 * [Core Bluetooth](https://example.com): Version 2.34
@@ -36,7 +36,19 @@ Für den Prototyp wurden folgende Frameworks im Programm Xcode genutzt
 
 ## Installation
 ***
-A little intro about the installation. 
+Das Projekt kann wie folgt auf einem Mac Computer ausgeführt werden:
+
+1. Programm Xcode auf dem Computer über den App Store herunterladen
+2. Projekt aus GitHub herunterladen
+3. CatCam.xcodeproj Datei ausführen
+4. Für die Ausführung des Prototypen im Simulator auf dem Computer auf den Playbutton oben links klicken.
+5. Soll der Prototyp auf einem iPhone ausgeführt werden, müssen folgende Schritte durchgeführt werden:
+  a. iPhone per Kabel an den Mac Computer anschließen
+  b. In der Leiste oben Mitte aus den Geräten das eigene iPhone auswählen (Default sollte iPhone 14 Pro sein, oder etwas anderes)
+  c. Auf den Play Button klicken und den Anweisungen auf dem iPhone folgen.
+  d. Wenn die App nicht durchführbar ist auf dem iPhone muss der App in den Einstellungen > Allgemein > VPN und Geräteverwaltung       vertraut werden. Danach sollte es funktionieren.
+  e. App nochmal über den Play Button ausführen auf dem Computer und sie wird automatisch auf dem Handy gestartet. 
+
 ```
 $ git clone https://example.com
 $ cd ../path/to/the/file

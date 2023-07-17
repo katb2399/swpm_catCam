@@ -41,8 +41,8 @@ Das Projekt kann wie folgt auf einem Mac Computer ausgeführt werden:
 3. CatCam.xcodeproj Datei ausführen
 4. Für die Ausführung des Prototypen im Simulator auf dem Computer auf den Playbutton oben links klicken.
 5. Soll der Prototyp auf einem iPhone ausgeführt werden, müssen folgende Schritte durchgeführt werden:
-  a. iPhone per Kabel an den Mac Computer anschließen
-  b. In der Leiste oben Mitte aus den Geräten das eigene iPhone auswählen (Default sollte iPhone 14 Pro sein, oder etwas anderes)
-  c. Auf den Play Button klicken und den Anweisungen auf dem iPhone folgen.
-  d. Wenn die App nicht durchführbar ist auf dem iPhone muss der App in den Einstellungen > Allgemein > VPN und Geräteverwaltung dem Apple Development vertraut werden. Danach sollte es  funktionieren.
-  e. App nochmal über den Play Button ausführen auf dem Computer und sie wird automatisch auf dem Handy gestartet.
+  * iPhone per Kabel an den Mac Computer anschließen
+  * In der Leiste oben Mitte aus den Geräten das eigene iPhone auswählen (Default sollte iPhone 14 Pro sein, oder etwas anderes)
+  * Auf den Play Button klicken und den Anweisungen auf dem iPhone folgen.
+  * Wenn die App nicht durchführbar ist auf dem iPhone muss der App in den Einstellungen > Allgemein > VPN und Geräteverwaltung dem Apple Development vertraut werden. Danach sollte es  funktionieren.
+  * App nochmal über den Play Button ausführen auf dem Computer und sie wird automatisch auf dem Handy gestartet.

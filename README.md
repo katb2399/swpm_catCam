@@ -15,7 +15,7 @@ Die App ist für iOS Geräte und wurde in Xcode programmiert, eine App für die 
 
 Die unteren Screnshots zeigen, wie beide der Funktionen aussehen können. Das erste Bild zeigt einen Ausschnitt der Konsole, in der durch print-Befehle die Verbindung zwischen einem Bluetooth-Gerät, in dem Falle AirPods, dokumentiert werden. Das zweite Bild zeigt den aktuellen Standort des Gerätes, auf dem die App installiert wurde. 
 ### Screenshot
-![Image text](/path/to/the/screenshot.png)
+![Ausschnitt von der Konsole in XCode bei der Verbindung mit Bluetooth](/Screenshots/AusschnittKonsole)
 
 ## Technologien
 ***

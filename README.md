@@ -21,7 +21,7 @@ Ausschnitt von der Konsole in XCode bei der Verbindung mit Bluetooth
 
 
 Ausschnitt von der Map Ansicht in der App (aktueller Standort wird angezeigt)
-![Ausschnitt von der Map Ansicht in der](/Screenshots/AusschnittMap.PNG)
+![Ausschnitt von der Map Ansicht in der](/Screenshots/MapEinsicht.png)
 
 
 ## Technologien
